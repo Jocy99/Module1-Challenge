@@ -7,23 +7,23 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* This code adds header background and font color */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Horiseon on header font */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* color contrast in logo */
 span {
     color: #d9dcd6;
 }
-
+/* Nav links moved to the right */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,11 +31,11 @@ nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* removed list dots */
 ul {
     list-style-type: none;
 }
-
+/* Placed li side by side in nav */
 li {
     display: inline-block;
     margin-left: 25px;
