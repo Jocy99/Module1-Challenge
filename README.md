@@ -6,4 +6,4 @@ This project was created to refactor the existing code so that it has web access
 N/A
 
 ## Usage
-You can 
+You can access different articles in the page by selecting the section you would like to read in the navigation at the top right side of the page. 
